@@ -1,13 +1,13 @@
 {
-  "name": "node-due-date-calculator",
-  "version": "1.0.1",
+  "name": "rt-due-date-calculator",
+  "version": "1.0.0",
   "description": "calculate due dates of for bugs",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tuyenpthust/due-date-calculator.git"
+    "url": "git+https://github.com/RuoiTrau95/due-date-calculator.git"
   },
-  "author": "@tuyenpt",
+  "author": "@RuoiTrau95",
   "license": "MIT",
   "scripts": {
     "test": "ava"
@@ -17,9 +17,9 @@
     "standard": "^8.6.0"
   },
   "bugs": {
-    "url": "https://github.com/tuyenpthust/due-date-calculator/issues"
+    "url": "https://github.com/RuoiTrau95/due-date-calculator/issues"
   },
-  "homepage": "https://github.com/tuyenpthust/due-date-calculator#readme",
+  "homepage": "https://github.com/RuoiTrau95/due-date-calculator#readme",
   "directories": {
     "test": "test"
   },

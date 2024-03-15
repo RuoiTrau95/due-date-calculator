@@ -1,6 +1,6 @@
 # Due Date Calculator
 
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![Build Status](https://travis-ci.org/tuyenpthust/due-date-calculator.svg?branch=main)](https://travis-ci.org/tuyenpthust/due-date-calculator)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![Build Status](https://travis-ci.org/RuoiTrau95/due-date-calculator.svg?branch=main)](https://travis-ci.org/RuoiTrau95/due-date-calculator)
 
 Calculate due dates of bug reports with certain turnaround time.
 
