@@ -25,5 +25,8 @@
   },
   "keywords": [
     "due-date"
-  ]
+  ],
+  "dependencies": {
+    "simple-date-calculator": "^1.1.14"
+  }
 }
